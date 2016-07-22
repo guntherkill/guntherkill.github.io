@@ -1,12 +1,12 @@
 # User Settings | Edit there as per required
 
 title: accent
-url: "http://ankitsultana.me"
+url: "https://guntherkill.github.io"
 baseurl: "/accent"
 
 # This will show up at the top of index page
 site_heading: >
-    foo <span class="faded">'s blog</span>
+    Banana <span class="faded">'s blog</span>
 
 email: your@email.com
 author: yourname
